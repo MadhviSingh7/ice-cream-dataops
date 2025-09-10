@@ -209,4 +209,4 @@ __marimo__/
 # Cognite ToolKit
 function_local_venvs/
 build_info.*.yaml
-.env test
+.env test.env
